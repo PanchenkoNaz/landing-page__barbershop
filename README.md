@@ -1,8 +1,7 @@
 # Landing page Barber
-- is a fully responsive website
-- responsive for all devices
-- build using HTML, CSS, and JavaScript
-
+- HTML, CSS
+- Java Script
+- Responsive for all devices
 
 Can you view [my project](https://panchenkonaz.github.io/landing-page__barbershop/)
 
